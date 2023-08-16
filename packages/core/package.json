@@ -1,6 +1,6 @@
 {
   "name": "@rmy-cli-dev/core",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "513107329 <513107329@qq.com>",
   "homepage": "https://github.com/513107329/lerna_test#readme",
@@ -17,7 +17,7 @@
     "rmy-cli-dev": "./bin/index.js"
   },
   "publishConfig": {
-		"access": "public",
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "repository": {
@@ -31,7 +31,7 @@
     "url": "https://github.com/513107329/lerna_test/issues"
   },
   "devDependencies": {
-    "@rmy-cli-dev/utils": "^0.0.4"
+    "@rmy-cli-dev/utils": "^0.0.5"
   },
   "gitHead": "e00ef4feae9b23cc1b11066f25a152d2f812ce3f"
 }
