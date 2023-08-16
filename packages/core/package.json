@@ -1,6 +1,6 @@
 {
   "name": "@rmy-cli-dev/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "513107329 <513107329@qq.com>",
   "homepage": "https://github.com/513107329/lerna_test#readme",
@@ -30,7 +30,7 @@
     "url": "https://github.com/513107329/lerna_test/issues"
   },
   "devDependencies": {
-    "@rmy-cli-dev/utils": "^0.0.3"
+    "@rmy-cli-dev/utils": "^0.0.4"
   },
   "gitHead": "bd79fcbb6f7c1403a8151c2b953974e4564ae2da"
 }
