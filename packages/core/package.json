@@ -30,6 +30,7 @@
     "url": "https://github.com/513107329/lerna_test/issues"
   },
   "devDependencies": {
-    "@rmy-cli-dev/utils": "file:../utils"
-  }
+    "@rmy-cli-dev/utils": "^0.0.3"
+  },
+  "gitHead": "bd79fcbb6f7c1403a8151c2b953974e4564ae2da"
 }
