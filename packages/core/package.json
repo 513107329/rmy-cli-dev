@@ -17,6 +17,7 @@
     "rmy-cli-dev": "./bin/index.js"
   },
   "publishConfig": {
+		"access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "repository": {
@@ -32,5 +33,5 @@
   "devDependencies": {
     "@rmy-cli-dev/utils": "^0.0.4"
   },
-  "gitHead": "bd79fcbb6f7c1403a8151c2b953974e4564ae2da"
+  "gitHead": "e00ef4feae9b23cc1b11066f25a152d2f812ce3f"
 }
