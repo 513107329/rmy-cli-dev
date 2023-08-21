@@ -2,6 +2,7 @@
 
 module.exports = core;
 
-function core() {
+function core(args) {
+	console.log(args)
   return 'Hello from core';
 }
