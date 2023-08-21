@@ -16,7 +16,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npmlog": "^7.0.1",
     "qrcode": "^1.5.3"
   },
   "devDependencies": {
