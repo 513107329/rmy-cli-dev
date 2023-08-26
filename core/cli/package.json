@@ -1,6 +1,6 @@
 {
   "name": "@rmy-cli-dev/core",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "> TODO: description",
   "author": "513107329 <513107329@qq.com>",
   "homepage": "https://github.com/513107329/lerna_test#readme",
@@ -32,8 +32,8 @@
   },
   "gitHead": "e00ef4feae9b23cc1b11066f25a152d2f812ce3f",
   "dependencies": {
-    "@rmy-cli-dev/logger": "file://../../utils/logger",
     "@rmy-cli-dev/exec": "file://../exec",
+    "@rmy-cli-dev/logger": "file://../../utils/logger",
     "colors": "^1.4.0",
     "commander": "^11.0.0",
     "dotenv": "^16.3.1",

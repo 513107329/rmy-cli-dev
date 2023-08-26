@@ -1,6 +1,6 @@
 {
   "name": "@rmy-cli-dev/exec",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "> TODO: description",
   "author": "mengyang.rui <mengyang.rui@hibobi.com>",
   "homepage": "",
@@ -19,8 +19,8 @@
   "scripts": {
     "test": "node ./__tests__/@rmy-cli-dev/exec.test.js"
   },
-	"dependencies": {
-		"@rmy-cli-dev/package": "file://../../models/package",
-		"@rmy-cli-dev/logger": "file://../../utils/logger"
-	}
+  "dependencies": {
+    "@rmy-cli-dev/logger": "file://../../utils/logger",
+    "@rmy-cli-dev/package": "file://../../models/package"
+  }
 }
