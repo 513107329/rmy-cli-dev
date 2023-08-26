@@ -1,6 +1,6 @@
 {
   "name": "@rmy-cli-dev/init",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "> TODO: description",
   "author": "mengyang.rui <mengyang.rui@hibobi.com>",
   "homepage": "",
@@ -20,8 +20,8 @@
     "test": "node ./__tests__/init.test.js"
   },
   "dependencies": {
-    "@rmy-cli-dev/command": "^0.0.11",
-    "@rmy-cli-dev/logger": "^0.0.11",
+    "@rmy-cli-dev/command": "^0.0.12",
+    "@rmy-cli-dev/logger": "^0.0.12",
     "fs-extra": "^11.1.1",
     "inquirer": "^8.0.0",
     "semver": "^7.5.4"
