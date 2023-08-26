@@ -1,6 +1,6 @@
 'use strict';
 const pkg = require('../package.json');
-const userHome = require('user-home');
+const userHome = require('os').homedir
 const semver = require('semver');
 const pathExists = require('path-exists');
 const colors = require('colors/safe');
