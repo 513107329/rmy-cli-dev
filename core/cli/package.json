@@ -32,8 +32,18 @@
   },
   "gitHead": "e00ef4feae9b23cc1b11066f25a152d2f812ce3f",
   "dependencies": {
-    "@rmy-cli-dev/utils": "file://../../utils/utils",
+    "@rmy-cli-dev/logger": "file://../../utils/logger",
+    "@rmy-cli-dev/exec": "file://../exec",
+    "colors": "^1.4.0",
+    "commander": "^11.0.0",
+    "dotenv": "^16.3.1",
+    "get-npm-info": "file://../../utils/get-npm-info",
     "import-local": "^3.1.0",
-    "npmlog": "^7.0.1"
+    "minimist": "^1.2.8",
+    "npmlog": "^7.0.1",
+    "path-exists": "^3.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.5.4",
+    "user-home": "^3.0.0"
   }
 }
