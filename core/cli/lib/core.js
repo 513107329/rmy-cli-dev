@@ -9,7 +9,7 @@ const log = require('@rmy-cli-dev/logger');
 // const initCommand = require('@rmy-cli-dev/init');
 const path = require('path');
 const commander = require('commander');
-const { getNpmSemverVersions } = require('get-npm-info');
+const { getNpmSemverVersions } = require('@rmy-cli-dev/get-npm-info');
 const exec = require('@rmy-cli-dev/exec');
 
 let args, configs;
