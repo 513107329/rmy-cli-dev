@@ -1,6 +1,6 @@
 {
   "name": "@rmy-cli-dev/command",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "> TODO: description",
   "author": "mengyang.rui <mengyang.rui@hibobi.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/@rmy-cli-dev/command.test.js"
   },
   "dependencies": {
-    "@rmy-cli-dev/logger": "^0.0.10",
+    "@rmy-cli-dev/logger": "^0.0.11",
     "clone-deep": "^4.0.1",
     "colors": "^1.4.0",
     "semver": "^7.5.4"

@@ -1,6 +1,6 @@
 {
   "name": "@rmy-cli-dev/package",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "> TODO: description",
   "author": "mengyang.rui <mengyang.rui@hibobi.com>",
   "homepage": "",
@@ -20,8 +20,8 @@
     "test": "node ./__tests__/@rmy-cli-dev/package.test.js"
   },
   "dependencies": {
-    "@rmy-cli-dev/format-path": "^0.0.10",
-    "@rmy-cli-dev/get-npm-info": "^0.0.10",
+    "@rmy-cli-dev/format-path": "^0.0.11",
+    "@rmy-cli-dev/get-npm-info": "^0.0.11",
     "fs-extra": "^11.1.1",
     "npminstall": "^7.9.0",
     "path-exists": "^3.0.0",
