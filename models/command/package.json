@@ -20,9 +20,10 @@
     "test": "node ./__tests__/@rmy-cli-dev/command.test.js"
   },
   "dependencies": {
-    "@rmy-cli-dev/logger": "file://../../utils/logger",
+    "@rmy-cli-dev/logger": "^0.0.9",
     "clone-deep": "^4.0.1",
     "colors": "^1.4.0",
     "semver": "^7.5.4"
-  }
+  },
+  "gitHead": "e0dee73c9c0477c89f0e8732acca95ef2c0e4d9c"
 }

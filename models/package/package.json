@@ -20,12 +20,13 @@
     "test": "node ./__tests__/@rmy-cli-dev/package.test.js"
   },
   "dependencies": {
-    "@rmy-cli-dev/format-path": "file://../../utils/format-path",
-    "@rmy-cli-dev/get-npm-info": "file://../../utils/get-npm-info",
+    "@rmy-cli-dev/format-path": "^0.0.9",
+    "@rmy-cli-dev/get-npm-info": "^0.0.9",
     "fs-extra": "^11.1.1",
     "npminstall": "^7.9.0",
     "path-exists": "^3.0.0",
     "pkg-dir": "^5.0.0",
     "semver": "^7.5.4"
-  }
+  },
+  "gitHead": "e0dee73c9c0477c89f0e8732acca95ef2c0e4d9c"
 }

@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+	"publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node ./__tests__/get-npm-info.test.js"
   },
@@ -20,5 +23,6 @@
     "axios": "^1.4.0",
     "semver": "^7.5.4",
     "url-join": "^4.0.0"
-  }
+  },
+  "gitHead": "e0dee73c9c0477c89f0e8732acca95ef2c0e4d9c"
 }

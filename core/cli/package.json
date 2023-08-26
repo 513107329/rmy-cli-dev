@@ -30,10 +30,10 @@
   "bugs": {
     "url": "https://github.com/513107329/lerna_test/issues"
   },
-  "gitHead": "e00ef4feae9b23cc1b11066f25a152d2f812ce3f",
+  "gitHead": "e0dee73c9c0477c89f0e8732acca95ef2c0e4d9c",
   "dependencies": {
-    "@rmy-cli-dev/exec": "file://../exec",
-    "@rmy-cli-dev/logger": "file://../../utils/logger",
+    "@rmy-cli-dev/exec": "^0.0.9",
+    "@rmy-cli-dev/logger": "^0.0.9",
     "colors": "^1.4.0",
     "commander": "^11.0.0",
     "dotenv": "^16.3.1",
